@@ -1,0 +1,8 @@
+{
+    "require": {
+        "facebook/graph-sdk": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {"GetLastFacebookPostFromPages\\": "src/"}
+    }
+}
