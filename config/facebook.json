@@ -1,0 +1,5 @@
+{
+  "app_id": "your_app_id" ,
+  "app_secret": "you_app_secret",
+  "default_graph_version" :"v2.8"
+}
